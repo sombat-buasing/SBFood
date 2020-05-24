@@ -29,6 +29,7 @@ class _AddInfoShopState extends State<AddInfoShop> {
             showMap(),
             MyStyle().mySizeBox(),
             saveButton(),
+            MyStyle().mySizeBox(),
           ],
         ),
       ),
